@@ -1,0 +1,8 @@
+baseURL = 'https://https://sa6tig.github.io/'
+languageCode = 'en-us'
+title = 'SA6TIG'
+theme = 'monochrome'
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'

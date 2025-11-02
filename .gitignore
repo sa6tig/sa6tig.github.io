@@ -1,6 +1,9 @@
-_site
-.sass-cache
-.jekyll-cache
-.jekyll-metadata
 vendor
 *.code-workspace
+
+# Generated files by hugo
+/public/
+/resources/_gen/
+/assets/jsconfig.json
+hugo_stats.json
+/.hugo_build.lock
