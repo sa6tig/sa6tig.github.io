@@ -1,4 +1,6 @@
 ---
-type: 'blank'
+menus: 'navbar'
+title: 'Radio'
+identifier: 'radio'
 ---
-Hi!
+

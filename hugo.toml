@@ -3,6 +3,21 @@ languageCode = 'en-us'
 title = 'SA6TIG'
 theme = 'monochrome'
 
+pluralizeListTitles = false
+
 [caches]
   [caches.images]
     dir = ':cacheDir/images'
+
+[params]
+  author = "SA6TIG"
+  color_scheme = 'dark'
+  enable_math = true
+
+  enable_open_graph = false
+  enable_twitter_cards = false
+  
+  footer = "Copyright © 2025 by SA6TIG"
+
+  enable_toc = false
+
